@@ -1,3 +1,3 @@
 # pdf-parser
 ## Start the server
-# nodemon index.js 
+nodemon index.js 
